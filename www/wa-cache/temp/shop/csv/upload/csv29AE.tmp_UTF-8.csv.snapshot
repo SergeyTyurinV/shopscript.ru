@@ -1,0 +1,36 @@
+<?php
+return array (
+  'params' => 
+  array (
+    'p:i:8c1658e652779476b17f18a0afeec795|s:i:b717c17ca9d6a46d0cac932be071d653' => 
+    array (
+      0 => 2,
+      1 => 5,
+      2 => 10,
+      3 => 13,
+      4 => 19,
+      5 => 27,
+      6 => 29,
+      7 => 32,
+      8 => 36,
+      9 => 80,
+      10 => 98,
+      11 => 123,
+      12 => 128,
+      13 => 132,
+      14 => 134,
+      15 => 137,
+      16 => 139,
+      17 => 142,
+      18 => 147,
+      19 => 150,
+      20 => 153,
+      21 => 156,
+      22 => 160,
+      23 => 163,
+      24 => 166,
+      25 => 174,
+    ),
+  ),
+  'reader' => 'C:13:"shopCsvReader":880:{a:9:{s:4:"file";s:77:"Z:\\home\\shopscript.ru\\www\\wa-cache\\temp\\shop\\csv\\upload\\csv29AE.tmp_UTF-8.csv";s:5:"files";a:2:{i:0;s:71:"Z:\\home\\shopscript.ru\\www\\wa-cache\\temp\\shop\\csv\\upload\\csv29AE.tmp.csv";i:1;s:77:"Z:\\home\\shopscript.ru\\www\\wa-cache\\temp\\shop\\csv\\upload\\csv29AE.tmp_UTF-8.csv";}s:9:"delimiter";s:1:";";s:8:"encoding";s:5:"utf-8";s:12:"data_mapping";a:10:{s:11:"skus:-1:sku";i:0;s:4:"name";i:1;s:13:"skus:-1:price";i:2;s:15:"skus:-1:stock:0";i:3;s:11:"description";i:4;s:7:"summary";i:5;s:10:"meta_title";i:6;i:-1;i:8;s:6:"images";a:10:{i:0;i:9;i:1;i:10;i:2;i:11;i:3;i:12;i:4;i:13;i:5;i:14;i:6;i:15;i:7;i:16;i:8;i:17;i:9;i:18;}s:21:"features:manufacturer";i:19;}s:3:"key";i:178;s:10:"offset_map";a:2:{i:64;i:72413;i:128;i:168150;}s:7:"columns";a:2:{i:0;a:2:{i:0;s:28:"shopCsvProductviewController";i:1;s:15:"tableRowHandler";}i:1;s:6:"&nbsp;";}s:5:"count";s:4:"~178";}}',
+);
